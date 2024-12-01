@@ -10,11 +10,11 @@ st.markdown("<h4 style='text-align: center; text-decoration: underline;'>Data an
 
 # Dataset section
 st.markdown("**Dataset:**")
-st.markdown("[MAKED: Multi-lingual Automatic Keyword Extraction Dataset](https://aclanthology.org/)")
+st.markdown("[MAKED: Multi-lingual Automatic Keyword Extraction Dataset](https://aclanthology.org/2022.lrec-1.664/)")
 
 # Transformers section
 st.markdown("**Transformers:**")
-st.markdown("[DistilBERT Documentation](https://huggingface.co/distilbert)")
+st.markdown("[DistilBERT Documentation](https://huggingface.co/docs/transformers/model_doc/distilbert)")
 st.markdown("[Explanation of BERT Model](https://www.geeksforgeeks.org/explanation-of-bert-model-nlp/)")
 st.markdown("[Guide to Positional Embeddings](https://harrisonpim.com/blog/understanding-positional-embeddings-in-transformer-models)")
 
@@ -23,16 +23,16 @@ st.markdown("<h4 style='text-align: center; text-decoration: underline;'>Linguis
 
 # Linguistic Theory section
 st.markdown("**Linguistic Theory:**")
-st.markdown("[Sapir-Whorf Hypothesis (I)](https://www.verywellmind.com/sapir-whorf-hypothesis-3024367)")
-st.markdown("[Sapir-Whorf Hypothesis (II)](https://plato.stanford.edu/entries/linguistic-relativity/)")
+st.markdown("[Sapir-Whorf Hypothesis (I)](https://helpfulprofessor.com/sapir-whorf-hypothesis-examples/)")
+st.markdown("[Sapir-Whorf Hypothesis (II)](https://plato.stanford.edu/entries/linguistics/whorfianism.html)")
 
 # Video Resources section
 st.markdown("**Video Resources:**")
-st.markdown("[Linguistic Relativity: How Language Shapes Thought](https://www.youtube.com/watch?v=5J2vn-wjGVk)")
-st.markdown("[Do we think differently in different languages?](https://www.youtube.com/watch?v=cJqZaHE3hXQ)")
+st.markdown("[Linguistic Relativity: How Language Shapes Thought](https://www.youtube.com/watch?v=Q7yyYdiNTIo)")
+st.markdown("[Do we think differently in different languages?](https://www.youtube.com/watch?v=XINQvKbqzq0)")
 
 # Language Families section
 st.markdown("**Language Families:**")
-st.markdown("[Map of The Primary Human Language Families](https://www.brilliantmaps.com/language-families/)")
-st.markdown("[Index of Languages by Language Family](https://en.wikipedia.org/wiki/List_of_language_families)")
-st.markdown("[Language Families of the World](https://www.thoughtco.com/language-families-4074531)")
+st.markdown("[Map of The Primary Human Language Families](https://brilliantmaps.com/human-language-families/)")
+st.markdown("[Index of Languages by Language Family](https://www.omniglot.com/writing/langfam.htm)")
+st.markdown("[Language Families of the World](https://testyourlanguage.com/blog/language-families-of-the-world)")
