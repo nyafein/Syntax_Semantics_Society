@@ -36,3 +36,10 @@ st.markdown("**Language Families:**")
 st.markdown("[Map of The Primary Human Language Families](https://brilliantmaps.com/human-language-families/)")
 st.markdown("[Index of Languages by Language Family](https://www.omniglot.com/writing/langfam.htm)")
 st.markdown("[Language Families of the World](https://testyourlanguage.com/blog/language-families-of-the-world)")
+
+
+st.markdown("<h4 style='text-align: center; text-decoration: underline;'>More Informtation</h4>", unsafe_allow_html=True)
+st.markdown("[GitHub Repository](https://github.com/nyafein/Syntax_Semantics_Society)")
+st.markdown("[My Contact](mailto:nyafein@gmail.com)")
+
+
